@@ -1,0 +1,25 @@
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding-left: 10px;
+    padding-right: 10px;
+
+
+}
+
+  
+.primary-title {
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+
+.secondary-title{
+  text-transform: uppercase;
+  font-size: 1.2rem;
+}
+
+.form-input {
+  border: 0;
+  padding: .5rem 1rem;
+  background: rgba($clr3, 0.3);
+}

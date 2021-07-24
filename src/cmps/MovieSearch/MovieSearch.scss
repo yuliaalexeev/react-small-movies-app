@@ -1,0 +1,16 @@
+.search{
+  margin-bottom: 20px;
+  &-movie{
+    padding: .5rem;
+    background: rgba(250,250,250,.2);
+    border-radius: 5px;
+    height: 40px;
+    display: inline-block;
+    &-input{
+      border: 0;
+      margin-left: 10px;
+      background: none;
+      font-size: 1.1rem;
+    }
+  }
+}

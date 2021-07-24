@@ -1,0 +1,18 @@
+.movie-preview{
+  margin-bottom: 15px !important;
+  position: transform .2s;
+  &-title{
+    font-size: .938rem;
+    text-transform: uppercase;
+  }
+  &-img{
+    border-radius: 5px;
+    box-shadow: 4px 4px 8px rgba(0,0,0,0.7);
+    &:hover{
+      transform: scale(1.1);
+    }
+  }
+  &-year{
+    margin: .5rem 0;
+  }
+}
